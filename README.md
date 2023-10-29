@@ -69,9 +69,6 @@
   <a target="_blank" href="https://www.chartjs.org/"><img
       src="https://www.chartjs.org/img/chartjs-logo.svg"
       alt="storybook" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.airtable.com/"><img
-      src="https://www.svgrepo.com/show/353383/airtable.svg"
-      alt="airtable" width="45" height="45" /></a>
    <a target="_blank" href="https://lottiefiles.com/"><img
       src="https://image.winudf.com/v2/image1/Y29tLmxvdHRpZWZpbGVzLmFwcF9pY29uXzE2NTE0MDg5NjhfMDE1/icon.png?fakeurl=1&h=240&type=webp" alt="lottiefiles" width="45"
       height="45" /></a>
