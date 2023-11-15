@@ -36,9 +36,6 @@
   <a target="_blank" href="https://redux.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
       width="45" height="45" /></a>
-  <a target="_blank" href="https://github.com/pmndrs/zustand"><img
-      src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand"
-      width="65" height="50" /></a>
    <a target="_blank" href="https://reactrouter.com/"><img
       src="https://www.svgrepo.com/show/354262/react-router.svg" alt="reactrouter"
       width="65" height="50" /></a>
